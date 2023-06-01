@@ -1,0 +1,11 @@
+#formulario{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    border: solid;
+    padding: 30px;
+    border-radius: 20px;
+    padding-left: 40%;
+    flex-wrap: wrap;
+}

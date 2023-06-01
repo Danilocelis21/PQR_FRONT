@@ -1,0 +1,69 @@
+.fotoTrofeo{
+    width: 100px;
+    height: 100px;
+}
+
+#contendor1{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+#contendor2{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#botonPqr{
+    text-decoration: none;
+    color: white;
+    background-color:black;
+    margin-bottom: 200px;
+}
+
+#botonPqr:hover{
+    padding: 20px;
+    background-color: bisque;
+    color: black;
+}
+
+#imagenPeticiones{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+#imagenPeticiones:hover{
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+#imagenQuejas{
+    width: 270px;
+    height: 200px;
+    margin-left: 40px;
+}
+#imagenQuejas:hover{
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+}
+#imagenReclamos{
+    width: 270px;
+    height: 200px;
+    margin-left: 40px;
+}
+#imagenReclamos:hover{
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+}
+
+
+
+
+

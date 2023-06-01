@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-decoration: none;
+    background-color: #181718ef;
+    height: 160px;
+    padding-top: 10px;
+}
+
+.botones{
+    padding-top: 65px;
+}
+
+#boton1:hover{
+    padding: 10px;
+    background-color: bisque;
+    color: black;
+}
+
+#boton2:hover{
+    padding: 10px;
+    background-color: bisque;
+    color: black;
+}
+#boton3:hover{
+    padding: 10px;
+    background-color: bisque;
+    color: black;
+}
+
+#boton1{
+    color: bisque;
+}
+#boton2{
+    color: bisque;
+}
+#boton3{
+    color: bisque;
+}
